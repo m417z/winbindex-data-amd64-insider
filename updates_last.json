@@ -354,6 +354,12 @@
             "created": 1733853629,
             "title": "Windows 11, version 24H2 (26100.2605)"
         },
+        "ad90836c-5e90-40d9-a40f-3ff6986f3c4b": {
+            "arch": "amd64",
+            "build": "9294.1",
+            "created": 1736939847,
+            "title": "Cumulative Update for .NET Framework for Microsoft server operating system version 24H2 (9294.1)"
+        },
         "b0c48c77-7b92-487c-8061-a19c0a0d1913": {
             "arch": "amd64",
             "build": "22621.4602",
