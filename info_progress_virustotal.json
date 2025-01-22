@@ -4,24 +4,8 @@
 "pending": {},
 "retry": [
 [
-"cdrom.sys",
-"7469d94f7f0f15643a7f22fd1cb631c25af950b114164fbf99c7dc4f46c8b711"
-],
-[
-"control.exe",
-"0efd251d5e943a316e36b00aa8b8638c81a4801afc1bf51bd4ab815c82b18afe"
-],
-[
-"healthattestationclientagent.exe",
-"3f564d0a16bc298dac8eeb67329f6b8af25ad8af5f58ae042bfe46a67cdddf34"
-],
-[
-"mountvol.exe",
-"c2a55451a9086efce62f23e21255dab7e86c60d3eb8d90269bcc11dc9a95dd29"
-],
-[
-"runonce.exe",
-"37c4e54f7ce1e47c884ec580ae4caefa285e7dda8f96e788e554ebccde048fac"
+"usoclient.exe",
+"d70b797c9ab64bfa3b723253fdeea251343399450ee7efcd843690ade15430b6"
 ]
 ],
 "updates": null
