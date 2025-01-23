@@ -126,6 +126,12 @@
             "created": 1733508029,
             "title": "Windows 11 Insider Preview 10.0.22635.4580 (ni_release)"
         },
+        "462ee8ab-43fb-493a-9d02-d3f3293b524d": {
+            "arch": "amd64",
+            "build": "20348.3095",
+            "created": 1737563304,
+            "title": "Cumulative Update for Microsoft server operating system version 21H2 (20348.3095)"
+        },
         "46350440-60e5-44e9-9157-941cf36017a6": {
             "arch": "arm64",
             "build": "22621.4602",
@@ -329,6 +335,12 @@
             "build": "22621.4602",
             "created": 1733853656,
             "title": "Windows 11, version 22H2 (22621.4602)"
+        },
+        "b4bc31f6-e5c7-4143-9ea3-0b76b8101f80": {
+            "arch": "arm64",
+            "build": "9294.1",
+            "created": 1737612611,
+            "title": "Cumulative Update for .NET Framework for Microsoft server operating system version 24H2 (9294.1)"
         },
         "b6049aaf-4f56-4183-8e58-32954906de64": {
             "arch": "arm64",
