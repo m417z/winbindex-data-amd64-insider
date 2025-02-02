@@ -1,0 +1,23 @@
+{
+"next": [
+"telemetry.common.dll",
+"41f05a5b3ed78cd042f7aabe1772bd97391adbeac8d5b69f7e8e5f66a7454994"
+],
+"next_updates": null,
+"pending": {},
+"retry": [
+[
+"speechruntime.exe",
+"31e3d291ea41a021adef5e51d29a1f6172140dccee28c73753cbd0c5cf76c491"
+],
+[
+"voiceaccess.exe",
+"920c5ca60dc72abdd7c61f4bac3571153dd8d40860dc07451c15e6556818cc3b"
+],
+[
+"windows.security.credentials.ui.credentialpicker.dll",
+"cb1979890dfb1a4a06521b8a35237b45b6c6ccd0e579341cc1093e286836f0b3"
+]
+],
+"updates": null
+}
