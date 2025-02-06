@@ -4,12 +4,12 @@
 "pending": {},
 "retry": [
 [
-"netcfgnotifyobjecthost.exe",
-"0e59ec21b468734f57de573cb7c61c60b3efd87c47772acbeb8751f8ae0edf50"
+"securityhealthsystray.exe",
+"80fce0a631cf9fab9166a6fba90c86d9675e9ec164c150e98f2b7948cc3142a3"
 ],
 [
-"vmsmb.dll",
-"f457d63feb34be69eef58e1198c7ad4e6d26657a4dd97313ba7343f48e663794"
+"wab.exe",
+"960b3f8af1a31fb55c55c8134de1f962a44f0aa66d52739586063f29d1704ce0"
 ]
 ],
 "updates": null
