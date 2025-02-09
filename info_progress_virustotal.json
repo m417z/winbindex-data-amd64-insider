@@ -1,10 +1,31 @@
 {
 "next": [
-"tempsignedlicenseexchangetask.dll",
-"24c037fd2bc2f653f6611187da44a561848f004dfd5f1c143b69f49dce6d53ff"
+"nettrace.dll",
+"73313e620c99fc7b2a75aad949d04f811af38da4f056f5a2e90f279d7de2956d"
 ],
 "next_updates": null,
 "pending": {},
-"retry": [],
+"retry": [
+[
+"coreuicomponents.dll",
+"bead71c47a225327560be3920f0a8cdc590888ef4194e58bbe5aa90de896e552"
+],
+[
+"dataexchangehost.exe",
+"f3688b0bcadbd77fc92914916a61ee86cb0b8ea9851c62561ebb5f837430ac75"
+],
+[
+"netsetupapi.dll",
+"c098467d39a56bdc740be5192ec57f992b482620ce82289e6b597f3448df3350"
+],
+[
+"utcapi.dll",
+"ec84aa4e09e7ca0e78d062d1bbfe931b56fc541af2fd7241294f99fb0e0c0c40"
+],
+[
+"winnlsres.dll",
+"d80d37467d56212795efb71d94268e35a1cfc5b343959edd33fb641cd7de0466"
+]
+],
 "updates": null
 }
