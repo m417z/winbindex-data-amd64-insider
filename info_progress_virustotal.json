@@ -4,16 +4,32 @@
 "pending": {},
 "retry": [
 [
-"dfrgui.exe",
-"5e88dc21d14430b499f373ac1c96c2d439f6a0e668ff34956d78014d87c904e8"
+"dcsvc.dll",
+"644862229a73640c4d8987204945cadd0306cceb18110569558ebcd8e9d2dfc6"
 ],
 [
 "easeofaccessdialog.exe",
 "62412c923483d4b2334a6e68106dcc83046b92929d542c48807d849f5dd04cd4"
 ],
 [
-"secur32.dll",
-"c9e4ee787f66c833f47bfe361d5d9ac9f1e74f1c3d417d5ee9bd4428d39ad0ae"
+"mmc.exe",
+"db02bb46b82a44bc532677bcff3d1798fa2c4ffece24281aeb28f39137cc39c3"
+],
+[
+"msado15.dll",
+"7b6c8742ca8c48ff160f68806ea89479725519a05fb1865f3f47241a5d269442"
+],
+[
+"ntoskrnl.exe",
+"00bddcb825d2bbc566c6ffd80b5d41db1c49dba3f6dae68b3dc66676040a5bd3"
+],
+[
+"securebootencodeuefi.exe",
+"24200876591785ba78b8c8fdaf9c3861fa228129faf72a3f0556b0748a021dae"
+],
+[
+"wcp.dll",
+"39ad53a45875b582d2f3290e98097ed325fd2207845a56fb52b79693d82081d3"
 ]
 ],
 "updates": null
