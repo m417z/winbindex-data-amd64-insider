@@ -4,28 +4,16 @@
 "pending": {},
 "retry": [
 [
-"oleaccrc.dll",
-"e9e60e20e9699c410ee89943d2753c7c74105d56649455f79b91fad1694deea4"
+"dfrgui.exe",
+"5e88dc21d14430b499f373ac1c96c2d439f6a0e668ff34956d78014d87c904e8"
 ],
 [
-"relpost.exe",
-"5885f68548ee5df36a22687ba88609b21e83e6c04c126fa228f4d6146d765b1a"
-],
-[
-"schtasks.exe",
-"1ef9d6d58997dd7e8ea8876c954c06bd6bf3fc034e77940523d84f3ec6cfa883"
+"easeofaccessdialog.exe",
+"62412c923483d4b2334a6e68106dcc83046b92929d542c48807d849f5dd04cd4"
 ],
 [
 "secur32.dll",
 "c9e4ee787f66c833f47bfe361d5d9ac9f1e74f1c3d417d5ee9bd4428d39ad0ae"
-],
-[
-"secureusbvideo.dll",
-"d832365e8c6e599fa9f7a9be8220d3385b68b69358f3f2e3feddb0acc08d7ccd"
-],
-[
-"tasklist.exe",
-"e0f7a5172dfcbb571509998f28b80142e5a29714645b0cd48d8227933d8b8b35"
 ]
 ],
 "updates": null
