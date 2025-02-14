@@ -66,6 +66,12 @@
             "created": 1736877664,
             "title": "Cumulative Update for Cloud PC Insider Preview (10.0.26100.2894)"
         },
+        "29f78f1c-589e-4f8b-92a3-7d2c931f1e98": {
+            "arch": "amd64",
+            "build": "22631.4969",
+            "created": 1739469624,
+            "title": "Windows 11, version 23H2 (22631.4969)"
+        },
         "2b0a275d-6e82-4833-bafe-5e06d1800a9b": {
             "arch": "amd64",
             "build": "26100.2894",
@@ -95,6 +101,12 @@
             "build": "17763.6893",
             "created": 1739296888,
             "title": "Feature update to Windows 10, version 1809 (17763.6893)"
+        },
+        "33fa0f0d-3240-4dce-be1e-53124e988367": {
+            "arch": "amd64",
+            "build": "19045.5552",
+            "created": 1739469642,
+            "title": "Feature update to Windows 10, version 22H2 (19045.5552)"
         },
         "359a4e36-d126-4269-a7e2-0563a264de53": {
             "arch": "amd64",
@@ -137,12 +149,6 @@
             "build": "17763.6775",
             "created": 1736877723,
             "title": "Feature update to Windows 10, version 1809 (17763.6775)"
-        },
-        "4db85aad-3842-412d-8b63-aa31d0e94acf": {
-            "arch": "amd64",
-            "build": "9290.1",
-            "created": 1734252305,
-            "title": "Cumulative Update Preview for .NET Framework for Windows 11 Insider Preview (9290.1)"
         },
         "5105d477-4650-4580-a19b-aeb7c4fe00ec": {
             "arch": "arm64",
