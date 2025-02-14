@@ -36,6 +36,12 @@
             "created": 1737144014,
             "title": "Windows 11 Insider Preview 10.0.26120.2992 (ge_release_upr)"
         },
+        "14e43bd0-838d-4cf2-8422-80cbee71437f": {
+            "arch": "arm64",
+            "build": "22631.4969",
+            "created": 1739469677,
+            "title": "Windows 11, version 23H2 (22631.4969)"
+        },
         "156ed223-5f02-4c82-a4e9-06d279fa74c7": {
             "arch": "arm64",
             "build": "22635.4870",
@@ -294,6 +300,12 @@
             "created": 1739296856,
             "title": "Feature update to Windows 10, version 22H2 (19045.5487)"
         },
+        "93b77c70-bff2-400b-ad9d-4e6dc88f7f12": {
+            "arch": "arm64",
+            "build": "26360.5000",
+            "created": 1739469714,
+            "title": "Windows Server Insider Preview 26360.5000 (ge_prerelease)"
+        },
         "966b27b4-5600-48d6-9f89-de57cc8901b7": {
             "arch": "arm64",
             "build": "26100.3025",
@@ -311,6 +323,12 @@
             "build": "9297.1",
             "created": 1738015263,
             "title": "Cumulative Update Preview for .NET Framework for Windows 11, version 24H2 (9297.1)"
+        },
+        "9bdd359d-66d4-4c21-a98d-f67d5376df5d": {
+            "arch": "amd64",
+            "build": "26360.5000",
+            "created": 1739469669,
+            "title": "Windows Server Insider Preview 26360.5000 (ge_prerelease)"
         },
         "9befb3e0-b8fa-404c-a62c-754a45ce693b": {
             "arch": "amd64",
@@ -576,11 +594,23 @@
             "created": 1738173616,
             "title": "Windows 11 Insider Preview 27783.1000 (rs_prerelease)"
         },
+        "f720d701-0bc1-482f-905d-3321643915a7": {
+            "arch": "x86",
+            "build": "19045.5552",
+            "created": 1739469662,
+            "title": "Feature update to Windows 10, version 22H2 (19045.5552)"
+        },
         "f7623c4b-9d87-4f42-bd63-cb2548cee069": {
             "arch": "amd64",
             "build": "25398.1369",
             "created": 1736877748,
             "title": "Windows Server, version 23H2 (25398.1369)"
+        },
+        "f9f354ea-b004-4871-82bd-02be3b4632ea": {
+            "arch": "arm64",
+            "build": "19045.5552",
+            "created": 1739469662,
+            "title": "Feature update to Windows 10, version 22H2 (19045.5552)"
         },
         "fa8f4622-2a13-4988-9a12-e95c3acecd59": {
             "arch": "arm64",

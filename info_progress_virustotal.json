@@ -5,26 +5,6 @@
 ],
 "next_updates": null,
 "pending": {},
-"retry": [
-[
-"ddpchunk.dll",
-"bd692e32b2144ca13473093c4deb700c3e3d5847fd5df269c0f94048b26a8a52"
-],
-[
-"printdialog.exe",
-"ec95828a12c06b2a8ad1cc237b39ef2d379dbc080f6135cb4751bf7ccaf1f98e"
-],
-[
-"smartscreenps.dll",
-"e9d9268431be7c2da725dca2a1d4701bc64d91d6e093279ffccc26580da55134"
-],
-[
-"windows.ui.dll",
-"f3026c27e37b2df1ad757c96de91392b9cc27e212ae68162af7d2bb4693d2fa3"
-]
-],
-"updates": [
-"29f78f1c-589e-4f8b-92a3-7d2c931f1e98",
-"33fa0f0d-3240-4dce-be1e-53124e988367"
-]
+"retry": [],
+"updates": null
 }
